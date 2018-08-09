@@ -19,3 +19,21 @@ The early of the year, My professor assigned me to understand about Daegu Taxi d
 5. Mobile monitoring of particulate matter: State of art and perspectives
 6. A novel mobile monitoring approach to characterize spatial and temporal variation in traffic-related air pollutants in an urban community
 7. Mobile monitoring for mapping spatial variation in urban air quality: Development and validation of a methodology based on an extensive dataset
+
+## OSM
+1. Comparison of the accuracy of OpenStreetMap for Ireland with Google Maps and Bing Maps
+2. Automated identification and characterization of parcels (AICP) with OpenStreetMap and Points of Interest
+3. Citizens as sensors: the world of volunteered geography
+4. Comparison of Volunteered Geographic Information Data Contributions and Community Development for Selected World Regions
+5. High Resolution Air Pollution Maps in Urban Environments Using Mobile Sensor Networks
+6. Mobile technologies and personalized environmental information for supporting sustainable mobility in Oslo: The Citi-Sense-MOB approach
+7. Quantitative Comparison of Open-Source Data for Fine-Grain Mapping of Land Use
+
+## VisualizationData
+1. Towards Big Data Visualization for Monitoring and Diagnostics of High Volume Semiconductor Manufacturing
+2. Data Visualization: Enhancing Big Data More Adaptable and Valuable
+3. Big Data Visualization Tools
+4. Design and Redesign in Data Visualization
+5. Learning Visual Importance for Graphic Designs and Data Visualizations
+6. Overview of Data Exploration Techniques
+7. PPT-Data_Visualization_101_How_to_Design_Charts_and_Graphs
